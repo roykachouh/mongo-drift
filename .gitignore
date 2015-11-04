@@ -1,0 +1,20 @@
+# top-level
+/.gradle
+/.idea
+
+# generated dirs
+.classpath
+.project
+.settings
+bin
+build
+test-output
+out
+
+
+# editor temp files
+*.swp
+*.iml
+*.ipr
+*.iws
+
